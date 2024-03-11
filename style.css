@@ -1,0 +1,13 @@
+#h3{
+    font-size: larger;
+    font-weight: bolder;
+
+}
+#title-box{
+    height: max-content;
+    border-left-width: 10px;
+    border-left: 15px;
+}
+p{
+    font: caption;
+}
